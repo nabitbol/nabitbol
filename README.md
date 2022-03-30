@@ -12,7 +12,6 @@
 <h3 align="left">Language and Tools:</h3>
 
 <br />
-<br />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -22,6 +21,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="26px" src="https://www.gnu.org/software/bash/" style="padding-right:10px;" />
 <img align="left" alt="UnrealEngine" width="26px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="padding-right:10px;" />
 
 <br />
@@ -32,7 +32,7 @@
 
 <h3 align="left">My Current cursus:</h3>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/nabitbol)](https://github.com/JaeSeoKim/badge42)
+[![nabitbol's 42 stats](https://badge42.herokuapp.com/api/stats/nabitbol)](https://github.com/JaeSeoKim/badge42)
 
 <br />
 
@@ -40,9 +40,20 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabitbol&show_icons=true&locale=en&layout=compact&theme=dark" alt="nabitbol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabitbol&show_icons=true&locale=en&theme=dark" alt="nabitbol" /></p>
+<details>
+  <summary>:zap: GitHub most used languages</summary>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabitbol&show_icons=true&locale=en&layout=compact&theme=dark" alt="nabitbol" /></p>
+
+</details>
+
+<details>
+  <summary>:zap: GitHub stats</summary>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabitbol&show_icons=true&locale=en&theme=dark" alt="nabitbol" /></p>
+
+</details>
 
 <br />
 
