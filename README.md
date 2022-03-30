@@ -11,8 +11,6 @@
 
 <h3 align="left">Language and Tools:</h3>
 
-<br />
-
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -28,37 +26,26 @@
 
 ---
 
-<br />
+<h3 align="left">My current cursus:</h3>
 
-<h3 align="left">My Current cursus:</h3>
-
-[![nabitbol's 42 stats](https://badge42.herokuapp.com/api/stats/nabitbol)](https://github.com/JaeSeoKim/badge42)
-
-<br />
+[![nabitbol's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1e35nwr000609mm1ju1vz2d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
-<br />
-
-
 <details>
   <summary>:zap: GitHub most used languages</summary>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabitbol&show_icons=true&locale=en&layout=compact&theme=dark" alt="nabitbol" /></p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabitbol&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <details>
   <summary>:zap: GitHub stats</summary>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nabitbol&show_icons=true&locale=en&theme=dark" alt="nabitbol" /></p>
-
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabitbol&theme=gruvbox&show_icons=true)
+ 
 </details>
 
-<br />
-
 ---
-
-<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabitbol&label=Profile%20views&color=0e75b6&style=flat" alt="nabitbol" /> </p>
