@@ -30,6 +30,10 @@
 
 [![nabitbol's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1e35nwr000609mm1ju1vz2d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
+<h3 align="left">My piscine stats:</h3>
+
+[![nabitbol's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1e35nwr000609mm1ju1vz2d?cursusId=9)](https://github.com/JaeSeoKim/badge42)
+
 ---
 
 <details>
