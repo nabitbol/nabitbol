@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: GitHub stats</summary>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nabitbol&show_icons=true&locale=en&theme=dark" alt="nabitbol" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nabitbol&show_icons=true&locale=en&theme=dark" alt="nabitbol" /></p>
 
 </details>
 
