@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **ft_transcendence**
-- 🌱 I’m currently learning **NodeJS** **NestJS** **TypeScript** **ReactJS** **APIRestfull** **Express.js** **PostgreSQL**
+- 🌱 I’m currently learning **NodeJS** **NestJS** **TypeScript** **ReactJS** **APIRestFull** **Express.js** **PostgreSQL**
 - 🥅 2022 Goals: Learn more about DDD and web3
 
 ---
