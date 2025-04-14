@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Camagru** **avaj_launcher**
+- 🔭 I’m currently working on **Camagru** and **avaj_launcher**
 - 🌱 I’m currently learning **Rust**
 - 🥅 2025 personal Goals: Start to build my **hobbyOS**
 
