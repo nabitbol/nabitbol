@@ -5,8 +5,10 @@
 
 - 🔭 I’m currently working on **Camagru** and **avaj_launcher**
 - 🌱 I’m currently learning **Rust**
-- 🥅 2025 personal Goals: Start to build my **hobbyOS**
+- 🥅 2025 personal Goals: Start to build my **hobbyOS** contribute to **Open source** projects
 
+
+> Most of my projects are private on my GitLab account. I am rolling them out as soon as I can!
 ---
 
 <h3 align="left">Language and Tools:</h3>
