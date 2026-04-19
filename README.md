@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noam</h1>
 <h3 align="center">I am a Solution Engineer!</h3>
-<h3 align="center">I am based in London</h3>
+<h4 align="center">I am based in London</h4>
 
 > Most of my projects are private on my GitLab account. I am rolling them out as soon as I can!
 ---
