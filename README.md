@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noam</h1>
-<h3 align="center">I am a software engineer and 42 student !</h3>
-
----
-
-- 🔭 I’m currently working on **Matcha**
-- 🌱 I’m currently learning **Rust**
-- 🥅 2025 personal Goals: Start to build my **hobbyOS** contribute to **Open source** projects
-
+<h3 align="center">I am a Solution Engineer!</h3>
+<h3 align="center">I am based in London</h3>
 
 > Most of my projects are private on my GitLab account. I am rolling them out as soon as I can!
 ---
